@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="home">Home</string>
+    <string name="info">Info</string>
+    <string name="about">About</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="training_course">Учебный курс</string>
+    <string name="management_of_risk">Управление рисками</string>
+    <string name="home_page">Home page</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hwo_to_use">Здесь указано описание того, как работать с курсом</string>
+    <string name="themes">Темы занятий</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
